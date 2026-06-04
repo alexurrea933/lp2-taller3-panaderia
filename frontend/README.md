@@ -1,2 +1,0 @@
-# Documentación específica del frontend
-
